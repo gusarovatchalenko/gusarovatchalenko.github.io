@@ -1,17 +1,31 @@
 body {
-	background: img src="images/pilatesmats.jpg";
+	background: url("../images/pilatesmats.jpg");
 	background-size: cover;
+	
 }
 h1 {
 	color: white;
-	font-size: 24px;
+	font-size: 50px;
 	font-family: Helvetica;
 	font-style: italic;
 	text-align: center;
+	margin-top: 420px;
+	margin-bottom: 100px;
+	
 }
-p{
+p {
 	color: white;
 	font-family: Helvetica;
 	text-align: center;
+	margin-left: 420px;
+	margin-right: 420px;
+	
 
+}
+ul {
+	color: white;
+	font-family: Helvetica;
+	text-align: center;
+	list-style-type: none;
+	font-weight: bold;
 }
